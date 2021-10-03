@@ -1,10 +1,8 @@
 # DressingPanel
-This is the newest panel I have created to change clothes in Roblox. 
+This panel is mainly used in Roblox Eurovisions. However, anyone can use it for their own use. Feel free to use it, if find any bugs or problems, please create an issue or pull a request. https://rix.dev/projects
 
-The system is fully free!
-Make sure you use it properly and not for a bad use, otherwise I will remove it.
+## Installation/Use
+If you want to use more than one panel, simply duplicate the panel, go to the `DressingPanel` and name it for example `DressingPanel2`, then in the Properties, find Adornee, click on it, and you need to find the part where you want to place it. If it doesn't show, change the `Face` to front or whichever works in youe case.
 
-Simply download it, and follow the instructions in the Roblox "ReadMe" file.
-
-
-Thank you for using it!
+## To-Do
+A new system like the avatar style with preview.
